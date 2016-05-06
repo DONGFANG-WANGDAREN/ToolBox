@@ -12,8 +12,8 @@ IOS Dialog效果图：
 
 屏幕截图如下：
 
-![image](https://github.com/niyingxunzong/ToolBox/images/device-2015-10-23-131345.png)
-![image](https://github.com/niyingxunzong/ToolBox/images/device-2015-10-23-131505.png)
-![image](https://github.com/niyingxunzong/ToolBox/images/device-2015-10-23-131524.png)
-![image](https://github.com/niyingxunzong/ToolBox/images/device-2015-10-23-131539.png)
-![image](https://github.com/niyingxunzong/ToolBox/images/device-2015-10-23-131555.png)
+![image](https://github.com/niyingxunzong/ToolBox/blob/master/images/device-2015-10-23-131345.png)
+![image](https://github.com/niyingxunzong/ToolBox/blob/master/images/device-2015-10-23-131505.png)
+![image](https://github.com/niyingxunzong/ToolBox/blob/master/images/device-2015-10-23-131524.png)
+![image](https://github.com/niyingxunzong/ToolBox/blob/master/images/device-2015-10-23-131539.png)
+![image](https://github.com/niyingxunzong/ToolBox/blob/master/images/device-2015-10-23-131555.png)
