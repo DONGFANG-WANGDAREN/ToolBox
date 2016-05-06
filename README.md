@@ -6,3 +6,14 @@
 --------------------------------------------------------------------------------------
 
 其实IOS效果的Dialog并不一定适合现在的Android项目了。v7包中有兼容的Dialog
+
+
+IOS Dialog效果图：
+
+屏幕截图如下：
+
+![image](https://github.com/niyingxunzong/ToolBox/images/device-2015-10-23-131345.png)
+![image](https://github.com/niyingxunzong/ToolBox/images/device-2015-10-23-131505.png)
+![image](https://github.com/niyingxunzong/ToolBox/images/device-2015-10-23-131524.png)
+![image](https://github.com/niyingxunzong/ToolBox/images/device-2015-10-23-131539.png)
+![image](https://github.com/niyingxunzong/ToolBox/images/device-2015-10-23-131555.png)
